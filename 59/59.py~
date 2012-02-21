@@ -1,0 +1,5 @@
+f = open('cipher1.txt','r')
+
+text = f.readline()
+
+f.close()
